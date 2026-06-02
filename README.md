@@ -36,7 +36,7 @@ This is an Astro project with React integration and `@inox-tools/request-nanosto
 
 **Expected:** The shared store should maintain its state correctly during hot reload, and the component should re-render with the same data.
 
-**Actual:** [Document the bug behavior here when you observe it]
+**Actual:** The store becomes `undefined` after HMR
 
 ## Store Configuration
 
