@@ -1,3 +1,8 @@
+# 🚨 UPDATE:
+
+This issue was resolved in this PR: https://github.com/withastro/astro/pull/16924
+
+
 # Request Nanostores - Shared Store Bug Demo
 
 This project demonstrates a bug with `@inox-tools/request-nanostores` when using the `shared` scope during hot module reloading (HMR).
